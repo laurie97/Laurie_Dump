@@ -1,0 +1,9 @@
+\documentclass[a4paper,12pt, onecolumn]{article}
+  \begin{document}
+
+  The uncertainty principle statest that
+  \begin{equation}
+    \Delta x \Delta p \geq \frac{\hbar}{2}
+   \end{equation}
+
+  \end{document}

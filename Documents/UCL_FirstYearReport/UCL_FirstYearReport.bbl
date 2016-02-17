@@ -1,0 +1,157 @@
+\begin{thebibliography}{10}
+
+\bibitem{bib_Run2_perf}
+{Expected performance of the ATLAS $b$-tagging algorithms in Run-2}.
+\newblock Technical Report ATL-PHYS-PUB-2015-022, CERN, Geneva, Jul 2015.
+
+\bibitem{bib_ttbar}
+{Measurements of fiducial cross-sections for $t\bar{t}$ production with one or
+  two additional $b$-jets in $pp$ collisions at $\sqrt{s}$=8 TeV using the
+  ATLAS detector}.
+\newblock Technical Report CERN-PH-EP-2015-200. arXiv:1508.06868, CERN, Geneva,
+  Aug 2015.
+
+\bibitem{bib_Hbb}
+Georges Aad et~al.
+\newblock {Search for the Standard Model Higgs boson produced in association
+  with top quarks and decaying into $b\bar{b}$ in pp collisions at $\sqrt{s}$ =
+  8 TeV with the ATLAS detector}.
+\newblock {\em Eur. Phys. J.}, C75(7):349, 2015.
+
+\bibitem{bib_susy}
+Georges Aad et~al.
+\newblock {Search for supersymmetry in $pp$ collisions at $\sqrt{s}=7$TeV in
+  final states with missing transverse momentum and $b^-$ jets}.
+\newblock {\em Phys. Lett.}, B701:398--416, 2011.
+
+\bibitem{bib_galaxy}
+Dilip~G. Banhatti.
+\newblock {Disk galaxy rotation curves and dark matter distribution}.
+\newblock 2007.
+
+\bibitem{bib_DM}
+Michael~E. Peskin.
+\newblock {Dark matter and particle physics}.
+\newblock {\em J. Phys. Soc. Jap.}, 76:111017, 2007.
+
+\bibitem{bib_LHC}
+Lyndon Evans and Philip Bryant.
+\newblock Lhc machine.
+\newblock {\em Journal of Instrumentation}, 3(08):S08001, 2008.
+
+\bibitem{bib_ATLAS}
+{ATLAS Collaboration}.
+\newblock {The ATLAS Experiment at the CERN Large Hadron Collider}.
+\newblock {\em JINST}, 3:S08003, 2008.
+
+\bibitem{bib_ID}
+G.~et~al. {Aad}.
+\newblock {The ATLAS Inner Detector commissioning and calibration}.
+\newblock {\em European Physical Journal C}, 70:787--821, December 2010.
+
+\bibitem{bib_IBL}
+{ATLAS Insertable B-Layer Technical Design Report}.
+\newblock Technical Report CERN-LHCC-2010-013. ATLAS-TDR-19, CERN, Geneva, Sep
+  2010.
+
+\bibitem{bib_trigger}
+Yu~Nakahama.
+\newblock {The ATLAS Trigger System: Ready for Run-2}.
+\newblock Technical Report ATL-DAQ-PROC-2015-006, CERN, Geneva, May 2015.
+
+\bibitem{bib_algos}
+{Performance of b-Jet Identification in the ATLAS Experiment}.
+\newblock Technical Report ATL-COM-PHYS-2012-824, CERN, Geneva, Jun 2012.
+
+\bibitem{bib_ttbar_comm}
+{Commissioning of the ATLAS $b$-tagging algorithms using $t\bar{t}$ events in
+  early Run-2 data}.
+\newblock Technical Report ATL-PHYS-PUB-2015-039, CERN, Geneva, Aug 2015.
+
+\bibitem{bib_pythia8}
+S.~Mrenna T.~Sjostrand and P.~Z. Skands.
+\newblock {A Brief Introduction to PYTHIA 8.1}.
+\newblock {\em Comput.Phys.Commun.}, 178:852--867, 2008.
+
+\bibitem{bib_A14}
+{ATLAS Run 1 Pythia8 tunes}.
+\newblock Technical Report ATL-PHYS-PUB-2014-021, CERN, Geneva, Nov 2014.
+
+\bibitem{bib_PDF}
+{J. Pumplin et al.}
+\newblock {New generation of parton distributions with uncertainties from
+  global QCD analysis}.
+\newblock {\em JHEP}, 0207:012, 2002.
+
+\bibitem{bib_evtgen}
+{C. Lange et al.}
+\newblock {{The EvtGen Event Generator Package}}.
+\newblock {{in Proceedings of CHEP}}, 1998.
+
+\bibitem{bib_atlas-simulation}
+{ATLAS Collaboration}.
+\newblock {The ATLAS Simulation Infrastructure}.
+\newblock {\em Eur. Phys. J. C}, 70:1823--874, 2010.
+
+\bibitem{bib_geant4}
+S.~Agostinelli et~al.
+\newblock {GEANT4: A simulation toolkit}.
+\newblock {\em Nucl. Instrum. Meth.}, A506:250--303, 2003.
+
+\bibitem{bib_AKT}
+Matteo Cacciari, Gavin~P. Salam, and Gregory Soyez.
+\newblock {The anti-kt jet clustering algorithm}.
+\newblock {\em JHEP}, 04:063, 2008.
+
+\bibitem{bib_JES}
+Georges Aad et~al.
+\newblock {Jet energy measurement and its systematic uncertainty in
+  proton-proton collisions at $\sqrt{s}=7$ TeV with the ATLAS detector}.
+\newblock {\em Eur. Phys. J.}, C75:17, 2015.
+
+\bibitem{bib_JVT}
+{ATLAS Collaboration}.
+\newblock {Tagging and suppression of pileup jets with the ATLAS detector}.
+\newblock 2014.
+
+\bibitem{bib_qstar}
+Ulrich Baur, Ian Hinchliffe, and Dieter Zeppenfeld.
+\newblock {Excited quark production at hadron colliders}.
+\newblock (FERMILAB-CONF-87-102-T. LBL-23645. MAD-PH-354):14 p, Jun 1987.
+
+\bibitem{bib_W'}
+Howard Georgi, Elizabeth~E. Jenkins, and Elizabeth~H. Simmons.
+\newblock The un-unified standard model.
+\newblock {\em Nuclear Physics B}, 331(3):541 -- 555, 1990.
+
+\bibitem{bib_W*}
+M.~V. Chizhov.
+\newblock {A Reference Model for Anomalously Interacting Bosons}.
+\newblock {\em Phys. Part. Nucl. Lett.}, 8:512--516, 2011.
+
+\bibitem{bib_color_octet}
+Paul~H. Frampton and Sheldon~L. Glashow.
+\newblock Chiral color: An alternative to the standard model.
+\newblock {\em Physics Letters B}, 190(1–2):157 -- 161, 1987.
+
+\bibitem{bib_ATLAS_dijet}
+Georges Aad et~al.
+\newblock {Search for new phenomena in the dijet mass distribution using $p-p$
+  collision data at $\sqrt{s}=8$ TeV with the ATLAS detector}.
+\newblock {\em Phys. Rev.}, D91(5):052007, 2015.
+
+\bibitem{bib_dijet}
+Robert~M. Harris and Konstantinos Kousouris.
+\newblock {Searches for Dijet Resonances at Hadron Colliders}.
+\newblock {\em Int. J. Mod. Phys.}, A26:5005--5055, 2011.
+
+\bibitem{bib_Z'}
+E.~Eichten, I.~Hinchliffe, K.~Lane, and C.~Quigg.
+\newblock Supercollider physics.
+\newblock {\em Rev. Mod. Phys.}, 56:579--707, Oct 1984.
+
+\bibitem{bib_CMS_dibjet}
+{Search for b-jet Resonances in pp Collisions at sqrt(s) = 7 TeV}.
+\newblock Technical Report CMS-PAS-EXO-11-008, CERN, Geneva, 2012.
+
+\end{thebibliography}

@@ -1,0 +1,60 @@
+This is BibTeX, Version 0.99d (TeX Live 2014)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: UCL_FirstYearReport.aux
+The style file: unsrt.bst
+Database file #1: UCL_FirstYearReport.bib
+Warning--empty author in bib_Run2_perf
+Name 1 in "," has a comma at the end for entry bib_ttbar
+while executing---line 944 of file unsrt.bst
+Warning--empty author in bib_ttbar
+Warning--empty journal in bib_galaxy
+Warning--empty author in bib_IBL
+Warning--empty author in bib_algos
+Warning--empty author in bib_ttbar_comm
+Warning--empty author in bib_A14
+Warning--empty journal in bib_JVT
+Warning--empty journal in bib_qstar
+Warning--there's a number but no volume in bib_qstar
+Warning--empty author in bib_CMS_dibjet
+You've used 30 entries,
+            1791 wiz_defined-function locations,
+            624 strings with 7240 characters,
+and the built_in function-call counts, 5409 in all, are:
+= -- 489
+> -- 169
+< -- 8
++ -- 72
+- -- 42
+* -- 375
+:= -- 888
+add.period$ -- 83
+call.type$ -- 30
+change.case$ -- 30
+chr.to.int$ -- 0
+cite$ -- 41
+duplicate$ -- 247
+empty$ -- 559
+format.name$ -- 42
+if$ -- 1187
+int.to.chr$ -- 0
+int.to.str$ -- 30
+missing$ -- 21
+newline$ -- 146
+num.names$ -- 24
+pop$ -- 47
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 85
+stack$ -- 0
+substring$ -- 352
+swap$ -- 26
+text.length$ -- 8
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 11
+while$ -- 44
+width$ -- 32
+write$ -- 320
+(There was 1 error message)

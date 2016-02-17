@@ -1,0 +1,940 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.12.14)  4 SEP 2015 17:45
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**UCL_FirstYearReport.tex
+(./UCL_FirstYearReport.tex
+LaTeX2e <2014/05/01>
+Babel <3.9k> and hyphenation patterns for 78 languages loaded.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks14
+\ex@=\dimen103
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen104
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count87
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count88
+\leftroot@=\count89
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count90
+\DOTSCASE@=\count91
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count92
+\c@MaxMatrixCols=\count93
+\dotsspace@=\muskip10
+\c@parentequation=\count94
+\dspbrk@lvl=\count95
+\tag@help=\toks15
+\row@=\count96
+\column@=\count97
+\maxfields@=\count98
+\andhelp@=\toks16
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks17
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count99
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+)
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen114
+\WF@size=\dimen115
+\c@WF@wrappedlines=\count100
+\WF@box=\box28
+\WF@everypar=\toks20
+Package: wrapfig 2003/01/31  v 3.6
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen116
+\captionmargin@=\dimen117
+\captionwidth=\dimen118
+\caption@tempdima=\dimen119
+\caption@indent=\dimen120
+\caption@parindent=\dimen121
+\caption@hangindent=\dimen122
+)
+\c@ContinuedFloat=\count101
+Package caption Info: wrapfig package is loaded.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/appendix/appendix.sty
+Package: appendix 2009/09/02 v1.2b extra appendix facilities
+\c@@pps=\count102
+\c@@ppsavesec=\count103
+\c@@ppsaveapp=\count104
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 266.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 281.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 282.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 283.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 284.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 285.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 286.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 287.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 288.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 289.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 290.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 291.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 292.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 293.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 294.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 295.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 296.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 297.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 298.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 299.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 300.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 301.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 302.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 303.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 304.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 305.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 306.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 307.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 308.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 309.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 310.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 311.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 312.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 313.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 314.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 315.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 316.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 317.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 318.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 319.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 320.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 321.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 322.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 323.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 324.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 325.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 326.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 327.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 328.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 329.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 330.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 331.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 332.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 333.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 334.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 335.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 336.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 337.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 338.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 339.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 340.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip46
+\bibsep=\skip47
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count105
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2014/03/24 3.9k The Babel package
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2012/08/20 v3.3p English support from the babel system
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2014/03/24 3.9k Babel common definitions
+\babel@savecnt=\count106
+\U@D=\dimen123
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+(./UCL_FirstYearReport.aux)
+\openout1 = `UCL_FirstYearReport.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 29.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 29.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 29.
+
+(/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count107
+\scratchdimen=\dimen124
+\scratchbox=\box29
+\nofMPsegments=\count108
+\nofMParguments=\count109
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count110
+\MPscratchDim=\dimen125
+\MPnumerator=\count111
+\makeMPintoPDFobject=\count112
+\everyMPtoPDFconversion=\toks22
+) (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
+[1
+
+{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 79--89
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--99
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--108
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--115
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--127
+
+ []
+
+[1]
+Underfull \hbox (badness 10000) in paragraph at lines 128--132
+
+ []
+
+<./figures/ATLAS_Diagram.pdf, id=17, 768.36089pt x 522.11517pt>
+File: ./figures/ATLAS_Diagram.pdf Graphic file (type pdf)
+
+<use ./figures/ATLAS_Diagram.pdf>
+Package pdftex.def Info: ./figures/ATLAS_Diagram.pdf used on input line 135.
+(pdftex.def)             Requested size: 338.5863pt x 230.07396pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--150
+
+ []
+
+<./figures/Inner_Detector.pdf, id=18, 540.87778pt x 471.14037pt>
+File: ./figures/Inner_Detector.pdf Graphic file (type pdf)
+
+<use ./figures/Inner_Detector.pdf>
+Package pdftex.def Info: ./figures/Inner_Detector.pdf used on input line 153.
+(pdftex.def)             Requested size: 266.03473pt x 231.73067pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--171
+
+ []
+
+[2 <./figures/ATLAS_Diagram.pdf>] [3 <./figures/Inner_Detector.pdf>]
+<./figures/B-Tagging_Diagram.pdf, id=57, 722.07535pt x 352.45375pt>
+File: ./figures/B-Tagging_Diagram.pdf Graphic file (type pdf)
+
+<use ./figures/B-Tagging_Diagram.pdf>
+Package pdftex.def Info: ./figures/B-Tagging_Diagram.pdf used on input line 191
+.
+(pdftex.def)             Requested size: 338.5863pt x 165.26607pt.
+ [4 <./figures/B-Tagging_Diagram.pdf>]
+<./figures/MV2_h.pdf, id=75, 769.08086pt x 170.0466pt>
+File: ./figures/MV2_h.pdf Graphic file (type pdf)
+
+<use ./figures/MV2_h.pdf>
+Package pdftex.def Info: ./figures/MV2_h.pdf used on input line 241.
+(pdftex.def)             Requested size: 386.95894pt x 85.55759pt.
+ [5 <./figures/MV2_h.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 278--280
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 281--296
+
+ []
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 297--306
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 307--317
+
+ []
+
+[7]
+Package epstopdf Info: Source file: <./figures/plots/LeadingJet/jetPt.eps>
+(epstopdf)                    date: 2015-08-21 10:37:25
+(epstopdf)                    size: 35025 bytes
+(epstopdf)             Output file: <./figures/plots/LeadingJet/jetPt-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2015-08-21 11:30:45
+(epstopdf)                    size: 20079 bytes
+(epstopdf)             Command: <repstopdf --outfile=./figures/plots/LeadingJet
+/jetPt-eps-converted-to.pdf ./figures/plots/LeadingJet/jetPt.eps>
+(epstopdf)             \includegraphics on input line 368.
+Package epstopdf Info: Output file is already uptodate.
+
+<./figures/plots/LeadingJet/jetPt-eps-converted-to.pdf, id=106, 569.12625pt x 4
+08.52625pt>
+File: ./figures/plots/LeadingJet/jetPt-eps-converted-to.pdf Graphic file (type 
+pdf)
+ <use ./figures/plots/LeadingJet/jetPt-eps-converted-to.pdf>
+Package pdftex.def Info: ./figures/plots/LeadingJet/jetPt-eps-converted-to.pdf 
+used on input line 368.
+(pdftex.def)             Requested size: 217.6621pt x 156.23895pt.
+Package epstopdf Info: Source file: <./figures/plots/LeadingJet/eta.eps>
+(epstopdf)                    date: 2015-08-21 10:37:25
+(epstopdf)                    size: 37514 bytes
+(epstopdf)             Output file: <./figures/plots/LeadingJet/eta-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2015-08-21 11:30:47
+(epstopdf)                    size: 21725 bytes
+(epstopdf)             Command: <repstopdf --outfile=./figures/plots/LeadingJet
+/eta-eps-converted-to.pdf ./figures/plots/LeadingJet/eta.eps>
+(epstopdf)             \includegraphics on input line 369.
+Package epstopdf Info: Output file is already uptodate.
+
+<./figures/plots/LeadingJet/eta-eps-converted-to.pdf, id=107, 569.12625pt x 408
+.52625pt>
+File: ./figures/plots/LeadingJet/eta-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use ./figures/plots/LeadingJet/eta-eps-converted-to.pdf>
+Package pdftex.def Info: ./figures/plots/LeadingJet/eta-eps-converted-to.pdf us
+ed on input line 369.
+(pdftex.def)             Requested size: 217.6621pt x 156.23895pt.
+ [8 <./figures/plots/LeadingJet/jetPt-eps-converted-to.pdf> <./figures/plots/Le
+adingJet/eta-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <./figures/plots/LeadingJet/trk_ip3d_d0.eps
+>
+(epstopdf)                    date: 2015-08-21 10:37:26
+(epstopdf)                    size: 40438 bytes
+(epstopdf)             Output file: <./figures/plots/LeadingJet/trk_ip3d_d0-eps
+-converted-to.pdf>
+(epstopdf)                    date: 2015-08-21 15:32:24
+(epstopdf)                    size: 22667 bytes
+(epstopdf)             Command: <repstopdf --outfile=./figures/plots/LeadingJet
+/trk_ip3d_d0-eps-converted-to.pdf ./figures/plots/LeadingJet/trk_ip3d_d0.eps>
+(epstopdf)             \includegraphics on input line 418.
+Package epstopdf Info: Output file is already uptodate.
+
+<./figures/plots/LeadingJet/trk_ip3d_d0-eps-converted-to.pdf, id=145, 569.12625
+pt x 408.52625pt>
+File: ./figures/plots/LeadingJet/trk_ip3d_d0-eps-converted-to.pdf Graphic file 
+(type pdf)
+
+<use ./figures/plots/LeadingJet/trk_ip3d_d0-eps-converted-to.pdf>
+Package pdftex.def Info: ./figures/plots/LeadingJet/trk_ip3d_d0-eps-converted-t
+o.pdf used on input line 418.
+(pdftex.def)             Requested size: 217.6621pt x 156.23895pt.
+Package epstopdf Info: Source file: <./figures/plots/LeadingJet/trk_ip3d_z0.eps
+>
+(epstopdf)                    date: 2015-08-21 10:37:26
+(epstopdf)                    size: 48079 bytes
+(epstopdf)             Output file: <./figures/plots/LeadingJet/trk_ip3d_z0-eps
+-converted-to.pdf>
+(epstopdf)                    date: 2015-08-21 15:32:26
+(epstopdf)                    size: 26745 bytes
+(epstopdf)             Command: <repstopdf --outfile=./figures/plots/LeadingJet
+/trk_ip3d_z0-eps-converted-to.pdf ./figures/plots/LeadingJet/trk_ip3d_z0.eps>
+(epstopdf)             \includegraphics on input line 419.
+Package epstopdf Info: Output file is already uptodate.
+
+<./figures/plots/LeadingJet/trk_ip3d_z0-eps-converted-to.pdf, id=146, 569.12625
+pt x 408.52625pt>
+File: ./figures/plots/LeadingJet/trk_ip3d_z0-eps-converted-to.pdf Graphic file 
+(type pdf)
+
+<use ./figures/plots/LeadingJet/trk_ip3d_z0-eps-converted-to.pdf>
+Package pdftex.def Info: ./figures/plots/LeadingJet/trk_ip3d_z0-eps-converted-t
+o.pdf used on input line 419.
+(pdftex.def)             Requested size: 217.6621pt x 156.23895pt.
+Package epstopdf Info: Source file: <./figures/plots/LeadingJet/trk_ip3d_d0sig.
+eps>
+(epstopdf)                    date: 2015-08-21 10:37:26
+(epstopdf)                    size: 51140 bytes
+(epstopdf)             Output file: <./figures/plots/LeadingJet/trk_ip3d_d0sig-
+eps-converted-to.pdf>
+(epstopdf)                    date: 2015-08-21 15:32:28
+(epstopdf)                    size: 28679 bytes
+(epstopdf)             Command: <repstopdf --outfile=./figures/plots/LeadingJet
+/trk_ip3d_d0sig-eps-converted-to.pdf ./figures/plots/LeadingJet/trk_ip3d_d0sig.
+eps>
+(epstopdf)             \includegraphics on input line 420.
+Package epstopdf Info: Output file is already uptodate.
+
+<./figures/plots/LeadingJet/trk_ip3d_d0sig-eps-converted-to.pdf, id=147, 569.12
+625pt x 408.52625pt>
+File: ./figures/plots/LeadingJet/trk_ip3d_d0sig-eps-converted-to.pdf Graphic fi
+le (type pdf)
+
+<use ./figures/plots/LeadingJet/trk_ip3d_d0sig-eps-converted-to.pdf>
+Package pdftex.def Info: ./figures/plots/LeadingJet/trk_ip3d_d0sig-eps-converte
+d-to.pdf used on input line 420.
+(pdftex.def)             Requested size: 217.6621pt x 156.23895pt.
+Package epstopdf Info: Source file: <./figures/plots/LeadingJet/trk_ip3d_z0sig.
+eps>
+(epstopdf)                    date: 2015-08-21 10:37:27
+(epstopdf)                    size: 50959 bytes
+(epstopdf)             Output file: <./figures/plots/LeadingJet/trk_ip3d_z0sig-
+eps-converted-to.pdf>
+(epstopdf)                    date: 2015-08-21 15:32:31
+(epstopdf)                    size: 28698 bytes
+(epstopdf)             Command: <repstopdf --outfile=./figures/plots/LeadingJet
+/trk_ip3d_z0sig-eps-converted-to.pdf ./figures/plots/LeadingJet/trk_ip3d_z0sig.
+eps>
+(epstopdf)             \includegraphics on input line 421.
+Package epstopdf Info: Output file is already uptodate.
+
+<./figures/plots/LeadingJet/trk_ip3d_z0sig-eps-converted-to.pdf, id=148, 569.12
+625pt x 408.52625pt>
+File: ./figures/plots/LeadingJet/trk_ip3d_z0sig-eps-converted-to.pdf Graphic fi
+le (type pdf)
+
+<use ./figures/plots/LeadingJet/trk_ip3d_z0sig-eps-converted-to.pdf>
+Package pdftex.def Info: ./figures/plots/LeadingJet/trk_ip3d_z0sig-eps-converte
+d-to.pdf used on input line 421.
+(pdftex.def)             Requested size: 217.6621pt x 156.23895pt.
+Package epstopdf Info: Source file: <./figures/plots/LeadingJet/sv1_m.eps>
+(epstopdf)                    date: 2015-08-21 10:37:26
+(epstopdf)                    size: 31314 bytes
+(epstopdf)             Output file: <./figures/plots/LeadingJet/sv1_m-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2015-08-21 15:49:45
+(epstopdf)                    size: 19154 bytes
+(epstopdf)             Command: <repstopdf --outfile=./figures/plots/LeadingJet
+/sv1_m-eps-converted-to.pdf ./figures/plots/LeadingJet/sv1_m.eps>
+(epstopdf)             \includegraphics on input line 437.
+Package epstopdf Info: Output file is already uptodate.
+
+<./figures/plots/LeadingJet/sv1_m-eps-converted-to.pdf, id=149, 569.12625pt x 4
+08.52625pt>
+File: ./figures/plots/LeadingJet/sv1_m-eps-converted-to.pdf Graphic file (type 
+pdf)
+ <use ./figures/plots/LeadingJet/sv1_m-eps-converted-to.pdf>
+Package pdftex.def Info: ./figures/plots/LeadingJet/sv1_m-eps-converted-to.pdf 
+used on input line 437.
+(pdftex.def)             Requested size: 217.6621pt x 156.23895pt.
+Package epstopdf Info: Source file: <./figures/plots/LeadingJet/sv1_efc.eps>
+(epstopdf)                    date: 2015-08-21 10:37:26
+(epstopdf)                    size: 30660 bytes
+(epstopdf)             Output file: <./figures/plots/LeadingJet/sv1_efc-eps-con
+verted-to.pdf>
+(epstopdf)                    date: 2015-08-21 15:49:47
+(epstopdf)                    size: 19002 bytes
+(epstopdf)             Command: <repstopdf --outfile=./figures/plots/LeadingJet
+/sv1_efc-eps-converted-to.pdf ./figures/plots/LeadingJet/sv1_efc.eps>
+(epstopdf)             \includegraphics on input line 438.
+Package epstopdf Info: Output file is already uptodate.
+
+<./figures/plots/LeadingJet/sv1_efc-eps-converted-to.pdf, id=150, 569.12625pt x
+ 408.52625pt>
+File: ./figures/plots/LeadingJet/sv1_efc-eps-converted-to.pdf Graphic file (typ
+e pdf)
+ <use ./figures/plots/LeadingJet/sv1_efc-eps-converted-to.pdf>
+Package pdftex.def Info: ./figures/plots/LeadingJet/sv1_efc-eps-converted-to.pd
+f used on input line 438.
+(pdftex.def)             Requested size: 217.6621pt x 156.23895pt.
+Package epstopdf Info: Source file: <./figures/plots/LeadingJet/sv1_Lxy.eps>
+(epstopdf)                    date: 2015-08-21 10:37:26
+(epstopdf)                    size: 33542 bytes
+(epstopdf)             Output file: <./figures/plots/LeadingJet/sv1_Lxy-eps-con
+verted-to.pdf>
+(epstopdf)                    date: 2015-08-21 15:49:50
+(epstopdf)                    size: 19585 bytes
+(epstopdf)             Command: <repstopdf --outfile=./figures/plots/LeadingJet
+/sv1_Lxy-eps-converted-to.pdf ./figures/plots/LeadingJet/sv1_Lxy.eps>
+(epstopdf)             \includegraphics on input line 439.
+Package epstopdf Info: Output file is already uptodate.
+
+<./figures/plots/LeadingJet/sv1_Lxy-eps-converted-to.pdf, id=151, 569.12625pt x
+ 408.52625pt>
+File: ./figures/plots/LeadingJet/sv1_Lxy-eps-converted-to.pdf Graphic file (typ
+e pdf)
+ <use ./figures/plots/LeadingJet/sv1_Lxy-eps-converted-to.pdf>
+Package pdftex.def Info: ./figures/plots/LeadingJet/sv1_Lxy-eps-converted-to.pd
+f used on input line 439.
+(pdftex.def)             Requested size: 217.6621pt x 156.23895pt.
+Package epstopdf Info: Source file: <./figures/plots/LeadingJet/sv1_ntrkv.eps>
+(epstopdf)                    date: 2015-08-21 10:37:26
+(epstopdf)                    size: 23880 bytes
+(epstopdf)             Output file: <./figures/plots/LeadingJet/sv1_ntrkv-eps-c
+onverted-to.pdf>
+(epstopdf)                    date: 2015-08-21 15:49:52
+(epstopdf)                    size: 16527 bytes
+(epstopdf)             Command: <repstopdf --outfile=./figures/plots/LeadingJet
+/sv1_ntrkv-eps-converted-to.pdf ./figures/plots/LeadingJet/sv1_ntrkv.eps>
+(epstopdf)             \includegraphics on input line 440.
+Package epstopdf Info: Output file is already uptodate.
+
+<./figures/plots/LeadingJet/sv1_ntrkv-eps-converted-to.pdf, id=152, 569.12625pt
+ x 408.52625pt>
+File: ./figures/plots/LeadingJet/sv1_ntrkv-eps-converted-to.pdf Graphic file (t
+ype pdf)
+
+<use ./figures/plots/LeadingJet/sv1_ntrkv-eps-converted-to.pdf>
+Package pdftex.def Info: ./figures/plots/LeadingJet/sv1_ntrkv-eps-converted-to.
+pdf used on input line 440.
+(pdftex.def)             Requested size: 217.6621pt x 156.23895pt.
+Package epstopdf Info: Source file: <./figures/plots/LeadingJet/jf_m.eps>
+(epstopdf)                    date: 2015-08-21 10:37:25
+(epstopdf)                    size: 30924 bytes
+(epstopdf)             Output file: <./figures/plots/LeadingJet/jf_m-eps-conver
+ted-to.pdf>
+(epstopdf)                    date: 2015-08-21 16:11:49
+(epstopdf)                    size: 19249 bytes
+(epstopdf)             Command: <repstopdf --outfile=./figures/plots/LeadingJet
+/jf_m-eps-converted-to.pdf ./figures/plots/LeadingJet/jf_m.eps>
+(epstopdf)             \includegraphics on input line 456.
+Package epstopdf Info: Output file is already uptodate.
+
+<./figures/plots/LeadingJet/jf_m-eps-converted-to.pdf, id=153, 569.12625pt x 40
+8.52625pt>
+File: ./figures/plots/LeadingJet/jf_m-eps-converted-to.pdf Graphic file (type p
+df)
+ <use ./figures/plots/LeadingJet/jf_m-eps-converted-to.pdf>
+Package pdftex.def Info: ./figures/plots/LeadingJet/jf_m-eps-converted-to.pdf u
+sed on input line 456.
+(pdftex.def)             Requested size: 217.6621pt x 156.23895pt.
+Package epstopdf Info: Source file: <./figures/plots/LeadingJet/jf_efc.eps>
+(epstopdf)                    date: 2015-08-21 10:37:25
+(epstopdf)                    size: 31022 bytes
+(epstopdf)             Output file: <./figures/plots/LeadingJet/jf_efc-eps-conv
+erted-to.pdf>
+(epstopdf)                    date: 2015-08-21 16:11:51
+(epstopdf)                    size: 19092 bytes
+(epstopdf)             Command: <repstopdf --outfile=./figures/plots/LeadingJet
+/jf_efc-eps-converted-to.pdf ./figures/plots/LeadingJet/jf_efc.eps>
+(epstopdf)             \includegraphics on input line 457.
+Package epstopdf Info: Output file is already uptodate.
+
+<./figures/plots/LeadingJet/jf_efc-eps-converted-to.pdf, id=154, 569.12625pt x 
+408.52625pt>
+File: ./figures/plots/LeadingJet/jf_efc-eps-converted-to.pdf Graphic file (type
+ pdf)
+ <use ./figures/plots/LeadingJet/jf_efc-eps-converted-to.pdf>
+Package pdftex.def Info: ./figures/plots/LeadingJet/jf_efc-eps-converted-to.pdf
+ used on input line 457.
+(pdftex.def)             Requested size: 217.6621pt x 156.23895pt.
+Package epstopdf Info: Source file: <./figures/plots/LeadingJet/jf_nvtx.eps>
+(epstopdf)                    date: 2015-08-21 10:37:25
+(epstopdf)                    size: 24148 bytes
+(epstopdf)             Output file: <./figures/plots/LeadingJet/jf_nvtx-eps-con
+verted-to.pdf>
+(epstopdf)                    date: 2015-08-21 16:11:54
+(epstopdf)                    size: 16282 bytes
+(epstopdf)             Command: <repstopdf --outfile=./figures/plots/LeadingJet
+/jf_nvtx-eps-converted-to.pdf ./figures/plots/LeadingJet/jf_nvtx.eps>
+(epstopdf)             \includegraphics on input line 458.
+Package epstopdf Info: Output file is already uptodate.
+
+<./figures/plots/LeadingJet/jf_nvtx-eps-converted-to.pdf, id=155, 569.12625pt x
+ 408.52625pt>
+File: ./figures/plots/LeadingJet/jf_nvtx-eps-converted-to.pdf Graphic file (typ
+e pdf)
+ <use ./figures/plots/LeadingJet/jf_nvtx-eps-converted-to.pdf>
+Package pdftex.def Info: ./figures/plots/LeadingJet/jf_nvtx-eps-converted-to.pd
+f used on input line 458.
+(pdftex.def)             Requested size: 217.6621pt x 156.23895pt.
+Package epstopdf Info: Source file: <./figures/plots/LeadingJet/jf_nvtx1t.eps>
+(epstopdf)                    date: 2015-08-21 10:37:25
+(epstopdf)                    size: 24214 bytes
+(epstopdf)             Output file: <./figures/plots/LeadingJet/jf_nvtx1t-eps-c
+onverted-to.pdf>
+(epstopdf)                    date: 2015-08-21 16:11:56
+(epstopdf)                    size: 16246 bytes
+(epstopdf)             Command: <repstopdf --outfile=./figures/plots/LeadingJet
+/jf_nvtx1t-eps-converted-to.pdf ./figures/plots/LeadingJet/jf_nvtx1t.eps>
+(epstopdf)             \includegraphics on input line 459.
+Package epstopdf Info: Output file is already uptodate.
+
+<./figures/plots/LeadingJet/jf_nvtx1t-eps-converted-to.pdf, id=156, 569.12625pt
+ x 408.52625pt>
+File: ./figures/plots/LeadingJet/jf_nvtx1t-eps-converted-to.pdf Graphic file (t
+ype pdf)
+
+<use ./figures/plots/LeadingJet/jf_nvtx1t-eps-converted-to.pdf>
+Package pdftex.def Info: ./figures/plots/LeadingJet/jf_nvtx1t-eps-converted-to.
+pdf used on input line 459.
+(pdftex.def)             Requested size: 217.6621pt x 156.23895pt.
+ [9 <./figures/plots/LeadingJet/trk_ip3d_d0-eps-converted-to.pdf> <./figures/pl
+ots/LeadingJet/trk_ip3d_z0-eps-converted-to.pdf> <./figures/plots/LeadingJet/tr
+k_ip3d_d0sig-eps-converted-to.pdf> <./figures/plots/LeadingJet/trk_ip3d_z0sig-e
+ps-converted-to.pdf>] [10 <./figures/plots/LeadingJet/sv1_m-eps-converted-to.pd
+f> <./figures/plots/LeadingJet/sv1_efc-eps-converted-to.pdf> <./figures/plots/L
+eadingJet/sv1_Lxy-eps-converted-to.pdf> <./figures/plots/LeadingJet/sv1_ntrkv-e
+ps-converted-to.pdf>]
+Package epstopdf Info: Source file: <./figures/plots/LeadingJet/mv2c20.eps>
+(epstopdf)                    date: 2015-08-21 10:37:25
+(epstopdf)                    size: 33562 bytes
+(epstopdf)             Output file: <./figures/plots/LeadingJet/mv2c20-eps-conv
+erted-to.pdf>
+(epstopdf)                    date: 2015-08-21 16:52:37
+(epstopdf)                    size: 19690 bytes
+(epstopdf)             Command: <repstopdf --outfile=./figures/plots/LeadingJet
+/mv2c20-eps-converted-to.pdf ./figures/plots/LeadingJet/mv2c20.eps>
+(epstopdf)             \includegraphics on input line 512.
+Package epstopdf Info: Output file is already uptodate.
+
+<./figures/plots/LeadingJet/mv2c20-eps-converted-to.pdf, id=300, 569.12625pt x 
+408.52625pt>
+File: ./figures/plots/LeadingJet/mv2c20-eps-converted-to.pdf Graphic file (type
+ pdf)
+ <use ./figures/plots/LeadingJet/mv2c20-eps-converted-to.pdf>
+Package pdftex.def Info: ./figures/plots/LeadingJet/mv2c20-eps-converted-to.pdf
+ used on input line 512.
+(pdftex.def)             Requested size: 217.6621pt x 156.23895pt.
+Package epstopdf Info: Source file: <./figures/plots/bEnhance_70_SubLeadingJet/
+mv2c20_sublead.eps>
+(epstopdf)                    date: 2015-08-21 10:37:18
+(epstopdf)                    size: 35134 bytes
+(epstopdf)             Output file: <./figures/plots/bEnhance_70_SubLeadingJet/
+mv2c20_sublead-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-08-21 16:52:40
+(epstopdf)                    size: 21007 bytes
+(epstopdf)             Command: <repstopdf --outfile=./figures/plots/bEnhance_7
+0_SubLeadingJet/mv2c20_sublead-eps-converted-to.pdf ./figures/plots/bEnhance_70
+_SubLeadingJet/mv2c20_sublead.eps>
+(epstopdf)             \includegraphics on input line 513.
+Package epstopdf Info: Output file is already uptodate.
+
+<./figures/plots/bEnhance_70_SubLeadingJet/mv2c20_sublead-eps-converted-to.pdf,
+ id=301, 569.12625pt x 408.52625pt>
+File: ./figures/plots/bEnhance_70_SubLeadingJet/mv2c20_sublead-eps-converted-to
+.pdf Graphic file (type pdf)
+
+<use ./figures/plots/bEnhance_70_SubLeadingJet/mv2c20_sublead-eps-converted-to.
+pdf>
+Package pdftex.def Info: ./figures/plots/bEnhance_70_SubLeadingJet/mv2c20_suble
+ad-eps-converted-to.pdf used on input line 513.
+(pdftex.def)             Requested size: 217.6621pt x 156.23895pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 525--538
+
+ []
+
+[11 <./figures/plots/LeadingJet/jf_m-eps-converted-to.pdf> <./figures/plots/Lea
+dingJet/jf_efc-eps-converted-to.pdf> <./figures/plots/LeadingJet/jf_nvtx-eps-co
+nverted-to.pdf> <./figures/plots/LeadingJet/jf_nvtx1t-eps-converted-to.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 548--554
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 575--583
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 584--594
+
+ []
+
+[12 <./figures/plots/LeadingJet/mv2c20-eps-converted-to.pdf> <./figures/plots/b
+Enhance_70_SubLeadingJet/mv2c20_sublead-eps-converted-to.pdf>]
+<./figures/plots/vpc/frac_IP3D.pdf, id=413, 569.12625pt x 385.44pt>
+File: ./figures/plots/vpc/frac_IP3D.pdf Graphic file (type pdf)
+
+<use ./figures/plots/vpc/frac_IP3D.pdf>
+Package pdftex.def Info: ./figures/plots/vpc/frac_IP3D.pdf used on input line 5
+96.
+(pdftex.def)             Requested size: 217.6621pt x 147.40973pt.
+
+<./figures/plots/vpc/frac_vpc.pdf, id=414, 569.12625pt x 385.44pt>
+File: ./figures/plots/vpc/frac_vpc.pdf Graphic file (type pdf)
+
+<use ./figures/plots/vpc/frac_vpc.pdf>
+Package pdftex.def Info: ./figures/plots/vpc/frac_vpc.pdf used on input line 59
+7.
+(pdftex.def)             Requested size: 217.6621pt x 147.40973pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 604--615
+
+ []
+
+<./figures/plots/vpc/2D_B.pdf, id=415, 569.12625pt x 385.44pt>
+File: ./figures/plots/vpc/2D_B.pdf Graphic file (type pdf)
+
+<use ./figures/plots/vpc/2D_B.pdf>
+Package pdftex.def Info: ./figures/plots/vpc/2D_B.pdf used on input line 617.
+(pdftex.def)             Requested size: 217.6621pt x 147.40973pt.
+
+<./figures/plots/vpc/2D_Frag.pdf, id=416, 569.12625pt x 385.44pt>
+File: ./figures/plots/vpc/2D_Frag.pdf Graphic file (type pdf)
+
+<use ./figures/plots/vpc/2D_Frag.pdf>
+Package pdftex.def Info: ./figures/plots/vpc/2D_Frag.pdf used on input line 618
+.
+(pdftex.def)             Requested size: 217.6621pt x 147.40973pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 630--641
+
+ []
+
+[13 <./figures/plots/vpc/frac_IP3D.pdf, page is rotated 90 degrees> <./figures/
+plots/vpc/frac_vpc.pdf, page is rotated 90 degrees>]
+<./figures/plots/vpc/effFromB.pdf, id=507, 569.12625pt x 385.44pt>
+File: ./figures/plots/vpc/effFromB.pdf Graphic file (type pdf)
+
+<use ./figures/plots/vpc/effFromB.pdf>
+Package pdftex.def Info: ./figures/plots/vpc/effFromB.pdf used on input line 64
+3.
+(pdftex.def)             Requested size: 217.6621pt x 147.40973pt.
+
+<./figures/plots/vpc/effFromFrag.pdf, id=508, 569.12625pt x 385.44pt>
+File: ./figures/plots/vpc/effFromFrag.pdf Graphic file (type pdf)
+
+<use ./figures/plots/vpc/effFromFrag.pdf>
+Package pdftex.def Info: ./figures/plots/vpc/effFromFrag.pdf used on input line
+ 644.
+(pdftex.def)             Requested size: 217.6621pt x 147.40973pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 659--664
+
+ []
+
+[14 <./figures/plots/vpc/2D_B.pdf, page is rotated 90 degrees> <./figures/plots
+/vpc/2D_Frag.pdf, page is rotated 90 degrees> <./figures/plots/vpc/effFromB.pdf
+, page is rotated 90 degrees> <./figures/plots/vpc/effFromFrag.pdf, page is rot
+ated 90 degrees>] <figures/CMS_dibjet.pdf, id=684, 569.12625pt x 552.0625pt>
+File: figures/CMS_dibjet.pdf Graphic file (type pdf)
+
+<use figures/CMS_dibjet.pdf>
+Package pdftex.def Info: figures/CMS_dibjet.pdf used on input line 681.
+(pdftex.def)             Requested size: 193.47577pt x 187.6735pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 690--701
+
+ []
+
+[15 <./figures/CMS_dibjet.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 711--718
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 719--727
+
+ []
+
+[16] (./UCL_FirstYearReport.bbl [17]
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no “ in font cmr12!
+) [18] (./UCL_FirstYearReport.aux) ) 
+Here is how much of TeX's memory you used:
+ 5231 strings out of 493117
+ 79314 string characters out of 6135432
+ 147546 words of memory out of 5000000
+ 8594 multiletter control sequences out of 15000+600000
+ 12729 words of font info for 45 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 38i,9n,38p,529b,342s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2014/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2014/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2014/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2014/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2014/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmr10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmr17.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmr6.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmr7.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr8.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmsy10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmsy8.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+ti10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmt
+i12.pfb>
+Output written on UCL_FirstYearReport.pdf (19 pages, 1097217 bytes).
+PDF statistics:
+ 764 PDF objects out of 1000 (max. 8388607)
+ 450 compressed objects within 5 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 136 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -1,0 +1,11 @@
+@techreport{bib_Run2_perf,
+      title         = "{Expected performance of the ATLAS $b$-tagging algorithms
+                       in Run-2}",
+      institution   = "CERN",
+      address       = "Geneva",
+      number        = "ATL-PHYS-PUB-2015-022",
+      month         = "Jul",
+      year          = "2015",
+      reportNumber  = "ATL-PHYS-PUB-2015-022",
+      url           = "http://cds.cern.ch/record/2037697",
+}

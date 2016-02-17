@@ -1,0 +1,88 @@
+%% This BibTeX bibliography file was created using BibDesk.
+%% http://bibdesk.sourceforge.net/
+
+
+%% Created for Laurie McClymont at 2014-03-25 00:03:08 +0000 
+
+
+%% Saved with string encoding Unicode (UTF-8) 
+
+
+
+@article{ROOT,
+	Acmid = {362112},
+	Address = {Houston, TX},
+	Articleno = {6},
+	Author = {Rademakers, Fons and Brun, Rene},
+	Date-Added = {2014-03-24 22:58:19 +0000},
+	Date-Modified = {2014-03-24 22:59:56 +0000},
+	Issn = {1075-3583},
+	Issue_Date = {July 1998},
+	Journal = {Linux J.},
+	Month = jul,
+	Number = {51es},
+	Publisher = {Belltown Media},
+	Title = {ROOT: An Object-oriented Data Analysis Framework},
+	Url = {http://dl.acm.org/citation.cfm?id=327422.362112},
+	Volume = {1998},
+	Year = {1998},
+	Bdsk-Url-1 = {http://dl.acm.org/citation.cfm?id=327422.362112}}
+
+@article{Salam,
+	Author = {Gavin P. Salam},
+	Date-Added = {2014-03-24 22:48:04 +0000},
+	Date-Modified = {2014-03-24 22:59:37 +0000},
+	Eprint = {0906.1833},
+	Month = {06},
+	Title = {Towards Jetography},
+	Url = {http://arxiv.org/abs/0906.1833},
+	Year = {2009},
+	Bdsk-Url-1 = {http://arxiv.org/abs/0906.1833}}
+
+@article{Pythia,
+	Author = {Torbjorn Sjostrand and Stephen Mrenna and Peter Skands},
+	Date-Added = {2014-03-24 22:46:49 +0000},
+	Date-Modified = {2014-03-24 23:00:12 +0000},
+	Eprint = {hep-ph/0603175},
+	Journal = {JHEP},
+	Pages = {026},
+	Title = {PYTHIA 6.4 Physics and Manual},
+	Url = {http://arxiv.org/abs/hep-ph/0603175},
+	Volume = {0605},
+	Year = {2006},
+	Bdsk-Url-1 = {http://arxiv.org/abs/hep-ph/0603175}}
+
+@article{Rivet,
+	Author = {Andy Buckley and Jonathan Butterworth and David Grellscheid and Hendrik Hoeth and Leif Lonnblad and James Monk and Holger Schulz and Frank Siegert},
+	Date-Added = {2014-03-24 22:46:18 +0000},
+	Date-Modified = {2014-03-24 23:00:07 +0000},
+	Eprint = {1003.0694},
+	Month = {03},
+	Title = {Rivet user manual},
+	Url = {http://arxiv.org/abs/1003.0694},
+	Year = {2010},
+	Bdsk-Url-1 = {http://arxiv.org/abs/1003.0694}}
+
+@article{FastJets,
+	Author = {Matteo Cacciari and Gavin P. Salam and Gregory Soyez},
+	Date-Added = {2014-03-24 22:46:01 +0000},
+	Date-Modified = {2014-03-24 23:02:55 +0000},
+	Eprint = {1111.6097},
+	Month = {11},
+	Title = {FastJet user manual},
+	Url = {http://arxiv.org/abs/1111.6097},
+	Year = {2011},
+	Bdsk-Url-1 = {http://arxiv.org/abs/1111.6097}}
+
+@article{SC,
+	Author = {Jeff Tseng and Hannah Evans},
+	Date-Added = {2014-03-24 22:45:29 +0000},
+	Date-Modified = {2014-03-24 23:01:34 +0000},
+	Eprint = {1304.1025},
+	Journal = {Phys. Rev. D},
+	Pages = {014044},
+	Title = {Sequential recombination algorithm for jet clustering and background subtraction},
+	Url = {http://arxiv.org/abs/1304.1025},
+	Volume = {88},
+	Year = {2013},
+	Bdsk-Url-1 = {http://arxiv.org/abs/1304.1025}}

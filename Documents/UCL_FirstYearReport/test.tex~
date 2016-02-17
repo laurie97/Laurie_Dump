@@ -1,0 +1,108 @@
+\documentclass[12pt, onecolumn,notitlepage]{article}
+
+    \usepackage{indentfirst}
+    \usepackage{amsmath}
+    \DeclareMathOperator\arctanh{arctanh}
+    \usepackage{xcolor, graphicx}
+    \usepackage{wrapfig}
+    \usepackage{caption} 
+    \captionsetup{justification=justified}
+    \usepackage{appendix}
+    \usepackage{textcomp}
+    \usepackage{natbib}
+    \setlength{\bibsep}{1pt}
+    \setlength{\textwidth}{15cm}
+    \setlength{\hoffset}{-1cm}
+   
+
+% define the title
+
+
+\begin{document}
+
+    \begin{center}
+    \vspace{1.5cm}
+    {\huge\bfseries Pigeons love doves\par}
+    \vspace{2cm}
+    {\Large Laurie M\textsuperscript{c}Clymont \par} 
+    \vspace{0.5cm}
+    {\Large University College London \par}
+    {\Large First Year Transfer Report \par}
+    \vspace{0.5cm}
+    {\scshape\Large \par}
+    {\large supervised by\par
+    \Large Dr. Andreas Korn}
+    
+
+    \vspace{3cm}
+    
+    \begin{abstract}    
+         \normalsize
+         Something to do with b-tagging, I presume. I will write this after its all written, I think this is the best way of doing an abstract! 
+         Filling in some space now so I can see what it looks like.
+    \end{abstract}
+
+    %\includegraphics[width=0.15\textwidth]{example-image-1x1}\par\vspace{1cm}
+
+
+    \vfill
+
+    % Bottom of the page
+    {\large \today\par}
+    \end{center}
+\newpage
+
+\section{Introduction}
+
+In high energy proton collisions, narrow beams of propagating high energy hadrons, known as  jets,  are produced by an interaction that 
+contains free quarks or gluons in its final state. Flavour tagging is the 
+identification of \textit{b}-jets, \textit{c}-jets and light-flavoured jets, which are defined as jets containing a \textit{b}-hadrons, 
+charmed-hadrons and only light hadrons (only containing \textit{u},\textit{d} and \textit{s} quarks) respectively.
+Flavour tagging is achieved by utilising the large lifetimes of the \textit{b}-hadrons and charmed-hadrons 
+(of the order 1.5 ps and 0.4-1 ps respectively), due to the fact that they can only decay through the flavour changing weak interaction. 
+The large lifetimes of  the heavy flavour hadrons means that the they will decay a measurable distance from the 
+primary vertex, the point where the hard-scatter collision occurs, and hence the flavour can be infered from the prescence of particles 
+that originate from a point offset from the primary vertex. \newline
+
+Flavour tagging of \textit{b}-quarks (b-tagging) is important for many analyses, as the \textit{b}-quark is the 2nd most massive quark in the 
+standard model ($m_{b} \sim 5 \text{ GeV}$) and as a third generation quark, partners the most massive quark, the top quark. 
+Two analyses where these properties mean that b-tagging features strongly are $t\bar{t}$ analyses and searches for a Higgs boson decaying to $b\bar{b}$.
+In the former, as the top decays to a \textit{W}-boson and a \textit{b}-quark with a branching ratio of close to 100\%, $t\bar{t}$ typically require a b-tagged jet. 
+In the latter, the Higgs boson coupling in proportional to mass squared, hence the large mass of the \textit{b}-quark means that $H\to b\bar{b}$ is 
+the decay of the Higgs boson with the largest branching-ratio (the top quark's mass is too large for a Higgs boson to decay into $t\bar{t}$), 
+which means that it is the best channel to make the first observation of the Higgs boson coupling to fermions. b-tagging is also important for a number of 
+exotic and super-symmetry searches due to the properties of the \textit{b}-quark mentioned above. \newline
+
+\subsection{Flavour Tagging Algorithms}
+
+There are three main base flavour tagging algorithms used at ATLAS, each of which utilise the extended lifetimes of the heavy hadrons by searching for tracks,
+reconstructed in the inner detector, that show that there are particles coming from a decay offset from the primary vertex.
+Then the three base algorithms are then combined to create a multivariate tagger, which has the most optimal flavour-tagging peformance.
+
+\subsubsection{Impact Parameter Based: IP3D}
+
+The IP3D algorithm is an impact parameter based flavour tagging tool. 
+In this algoritm, for all tracks associated to a jet, the distance of closest approach, known as the impact parameter, is calculated in both the transverse 
+(perpindicular to beam-pipe) and longitudinal(parallel to beam-pipe) direction, which are labelled as $d_{0}$ and $z_{0}$.
+Then the algorithm calculates a likelihood of the jet having a specific flavour, 
+based on the distributions of the impact paremeters ($d_{0}$, $z_{0}$), and the distributions of their significances 
+($d_{0}/ \sigma _{d0}$ and  $z_{0}/\sigma_{z0}$) of tracks inside the jet.
+
+\subsubsection{Secondary Vertex: SV1}
+
+The SV1 algorithm aims to reconstruct a secondary vertex of two or more intersecting tracks, corrosponding to the decay of a heavy-flavour hadron. 
+Properties of the reconstructed secondary vertex that show flavour discrimination are, for example; vertex 
+invariant mass and energy fraction (fraction of jet energy contained in the secondary vertex) which will be large for 
+\textit{b}-jets due to the heavy mass of the \texit{b}-hadron, the distance in the transverse plane between the 
+primary vertex and the secondary vertex (2D fligh path L_{XY}), which will be large for \textit{b}-jets
+due to the long lifetime of the \texit{b}-hadron and the number of tracks at the secondary vertex, which will be large for
+well constructed secondary vertices, which are more likely in \textit{b}-jets.
+
+
+
+
+
+ 
+   
+
+\end{document}

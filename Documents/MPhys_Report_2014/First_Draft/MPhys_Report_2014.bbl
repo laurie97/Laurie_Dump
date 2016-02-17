@@ -1,0 +1,85 @@
+\begin{thebibliography}{10}
+
+\bibitem{HalzenMartin}
+Francis Halzen and Alan~D. Martin.
+\newblock {\em Quarks \& Leptons: An Introductory Course in Modern Particle
+  Physics, p18-19}.
+\newblock John Wiley \& Sons, 1984.
+
+\bibitem{sc}
+Jeff Tseng and Hannah Evans.
+\newblock Sequential recombination algorithm for jet clustering and background
+  subtraction.
+\newblock {\em Phys. Rev. D}, 88:014044, 2013.
+
+\bibitem{salam}
+Gavin~P. Salam.
+\newblock Towards jetography.
+\newblock 06 2009.
+
+\bibitem{pruning}
+Stephen~D. Ellis, Christopher~K. Vermilion, and Jonathan~R. Walsh.
+\newblock Recombination algorithms and jet substructure: Pruning as a tool for
+  heavy particle searches.
+\newblock {\em Phys.Rev.}, D80(094023), 12 2009.
+
+\bibitem{Zprime1}
+Marcela Carena, Alejandro Daleo, Bogdan~A. Dobrescu, and Tim~M.P. Tait.
+\newblock Z-prime gauge bosons at the tevatron.
+\newblock {\em Phys.Rev.}, D70(093009), 2004.
+
+\bibitem{Zprime2}
+Jens Erler, Paul Langacker, and Tian-jun Li.
+\newblock {The $Z$ - $Z^\prime$ mass hierarchy in a supersymmetric model with a
+  secluded U(1) -prime breaking sector}.
+\newblock {\em Phys.Rev.}, D66:015002, 2002.
+
+\bibitem{Zprime3}
+N.~Arkani-Hamed, A.G. Cohen, E.~Katz, and A.E. Nelson.
+\newblock The littlest higgs.
+\newblock {\em JHEP}, 2002(07):034, 2002.
+
+\bibitem{Pythia}
+Torbjorn Sjostrand, Stephen Mrenna, and Peter Skands.
+\newblock Pythia 6.4 physics and manual.
+\newblock {\em JHEP}, 0605:026, 2006.
+
+\bibitem{Rivet}
+Andy Buckley, Jonathan Butterworth, David Grellscheid, Hendrik Hoeth, Leif
+  Lonnblad, James Monk, Holger Schulz, and Frank Siegert.
+\newblock Rivet user manual.
+\newblock 03 2010.
+
+\bibitem{FastJets}
+Matteo Cacciari, Gavin~P. Salam, and Gregory Soyez.
+\newblock Fastjet user manual.
+\newblock 11 2011.
+
+\bibitem{ROOT}
+Fons Rademakers and Rene Brun.
+\newblock Root: An object-oriented data analysis framework.
+\newblock {\em Linux J.}, 1998(51es), July 1998.
+
+\bibitem{jetquench}
+B.Z. Kopeliovich, I.K. Potashnikova, and Ivan Schmidt.
+\newblock Jet quenching: A fresh look at the energy loss scenario.
+\newblock {\em The Open Nuclear \& Particle Physics Journal}, 3:16--21, 10
+  2010.
+
+\bibitem{pile-up}
+V.~Daniel Elvira.
+\newblock The challenge of pileup,
+  http://indico.cern.ch/event/199123/material/slides/0.pdf.
+
+\bibitem{ATLAS}
+ATLAS Collaboration.
+\newblock {Performance of large-R jets and jet substructure reconstruction with
+  the ATLAS detector}.
+\newblock {\em ATLAS-CONF-2012-065}, 2012.
+
+\bibitem{CMS}
+CMS Collaboration.
+\newblock Studies of jet mass in dijet and w/z + jet events.
+\newblock {\em JHEP}, 2013(90), 03 2013.
+
+\end{thebibliography}

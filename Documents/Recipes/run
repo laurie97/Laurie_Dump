@@ -1,0 +1,2 @@
+latexmk -pdf -bibtex *.tex
+cp *.pdf ~/Desktop/Recipes/

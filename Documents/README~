@@ -1,0 +1,4 @@
+
+latexmk -pdf -bibtex .tex
+
+latexmk -pdf -bibtex MPhys_Report_2014.tex

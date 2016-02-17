@@ -1,0 +1,46 @@
+\documentclass[a4paper,11pt, onecolumn]{article}
+
+\usepackage{multicol}
+\usepackage{color}
+
+\usepackage{comment}
+ 
+\setlength{\columnseprule}{0.7pt}
+\setlength\columnsep{60pt}
+\def\columnseprulecolor{\color{black}}
+ 
+\begin{document}
+
+   \centerline{\underline{\emph{\huge Recipe Template}}}
+   \vspace{1cm}
+
+\begin{multicols}{2}
+
+
+
+\section*{Ingredients}
+
+\begin{itemize}
+% List Ingredients here
+\item 'Ingredient'
+\end{itemize}
+
+\columnbreak
+
+\section*{Tools}
+\begin{itemize}
+% List Utensils here
+\item 'Utensil'  
+\end{itemize}
+
+\end{multicols}
+\hrulefill
+\section*{Method}
+
+\begin{enumerate}
+% List Steps here
+\item '...'
+\end{enumerate}
+ 
+
+\end{document}

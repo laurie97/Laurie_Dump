@@ -1,0 +1,117 @@
+BIG CAUTION => I THINK WE ARE CHANGING TO 3 PARA INIT. SO THESE INSTRUCTIONS MIGHT NEED UPDATING!!!!
+
+Dijet Helper Plots:
+
+=> Init plots:
+   Run:
+   sh MyScripts/plot_fractionsFromSpectrum_MC15_20151104_mbb_fix_8585_toyTrial.sh Init
+   #Only Need to do once, and this is done before the rest
+   sh MyScripts/plot_fractionsFromSpectrum_MC15_20151104_mbb_fix_8585_toyTrial.sh Pi 3 12
+   #Plots @ plots_fractionsFromSpectrum/plots_initialisation
+   Plots @ 
+   MyPlots/MC15_20151104/plots_3ParaInit_fractionsFromSpectrum/plots_initialisation/mjjPlots/mjjPlot_dataLikeHistograms.v10_mjj_Smooth_*_mbb_fix_8585_mc15_13TeV_20fb.eps
+
+   # Note here, not showing p-values so don't need to use the submitFractionsToysGrid.sh version. (To be changed at some later point)
+
+
+=> Scaled plots no fit:
+   
+   Run:
+   sh submitFractionsToysGrid.sh 1 1 1 Ps	
+   #Notes on this, will choose seed=11 by default, nToys is irrelevant
+
+   Plots @:
+   #MyPlots/MC15_20151104/plots_fractionsFromSpectrum/plots_v11_3fb/mjjPlots/mjjPlot_fractionFromSpectrum.v11_mjj_Scaled_mbb_fix_8585_mc15_13TeV_3fb.eps/png
+   #MyPlots/MC15_20151104/plots_fractionsFromSpectrum/plots_flavReweight_2_2_2_1_1_1_v11_3fb/mjjPlots/mjjPlot_fractionFromSpectrum_flavReweight_2_2_2_1_1_1.v11_mjj_Scaled_mbb_fix_8585_mc15_13TeV_3fb.eps/png
+   MyPlots/MC15_20151104/plots_3ParaInit_fractionsFromSpectrum/PatchDataLikeFits_3ParaInit_*/mjjPlots/*eps
+
+
+=> Scaled to original
+   
+   Run:
+   On lxplus
+   sh plotterScripts/fractionFromSpectrumPlots_3ParaInit.sh
+
+   Plots @
+   MyPlots/MC15_20151104/plots_3ParaInitComp/scaled_Stacked_vs_Original_3fb_3ParaInit.eps 
+
+=> Data-like fits:
+   
+   To submit/fit: (This is a bit of a chore a best not repeated)
+   sh submitFractionsToysGrid_3ParaInit.sh 11 410 200 D # Start(11) End(410) nToys(200) options(D)
+   sh submitFractionsToysGrid_3ParaInit.sh 11 410 200 # Start(11) End(410) nToys(200)
+   
+   To plot:
+   sh submitFractionsToysGrid_3ParaInit.sh 11 410 "folderAppend" P
+
+   Plots used @ 
+   MyPlots/MC15_20151104/plots_fractionsFromSpectrum_3ParaInit/plots_toysTests_v*_3fb
+   MyPlots/MC15_20151104/plots_fractionsFromSpectrum_3ParaInit/plots_toysTests_flavReweight_2_2_2_1_1_1_v*_3fb
+   In the Note I used seed v11.
+
+   In these folders there are two key plots
+   - MyPlots/MC15_20151104/plots_3ParaInit_fractionsFromSpectrum/plots_toysTests_3ParaInit_*v11_3fb/mjjPlots/*Data*eps
+     (Contains 'data-like' and fit to it)
+   - MyPlots/MC15_20151104/plots_3ParaInit_fractionsFromSpectrum/plots_toysTests*v11_3fb/ToyValuesChi2/*CDF.eps
+     (Contains pseudo data distributions for calculating p-values)
+     	       	       
+
+=> p-Value plots:
+
+   Preamble:
+   - When you run 'sh submitFractionsToysGrid_3ParaInit.sh 11 110 1000 P _410_FirstAttempt'
+   This produces a root file called pValFileTest__410_FirstAttempt.root and pValFileTest_flavReweight_2_2_2_1_1_1__410_FirstAttempt.root
+   => NOTE OF CAUTION: Before using 'sh submitFractionsToysGrid.sh 11 110 1000 P', check that pValFileTest__410_FirstAttempt.root is empty.
+      	      	       Otherwise you will duplicate pValues!!
+
+   Run:
+   sh MyScripts/pValPlots_3ParaInit.sh "__410_FirstAttempt"
+   You need to note down the outputted mean and error.
+
+   Plots @:
+   pVal_plots__410_FirstAttempt/3ParaInit/*Chi2.eps
+
+
+BumpHunterPlots:
+
+   Plots @:
+   =>for scaled:
+   plotting/SearchPhase/plots/*3Para*v12_5TeV*/*Scaled*/figure1.pdf
+   plotting/SearchPhase/plots/*3Para*v12_2*5TeV*/*Scaled*/figure1.pdf
+   plotting/SearchPhase/plots/*3Para*v12_5TeV*/*Scaled*/bumpHunterStatPlot.pdf
+   plotting/SearchPhase/plots/*3Para*v12_2*5TeV*/*Scaled*/bumpHunterStatPlot.pdf
+
+   =>for DataLike:
+   plotting/SearchPhase/plots/fractionFromSpectrum_3ParaInit.v11_5TeVCutOff/mjj_DataLike_mbb_fix_8585_mc15_13TeV_3fb/figure1.pdf
+   plotting/SearchPhase/plots/fractionFromSpectrum_3ParaInit_flavReweight_2_2_2_1_1_1.v11_5TeVCutOff/mjj_DataLike_mbb_fix_8585_mc15_13TeV_3fb/figure1.pdf
+   plotting/SearchPhase/plots/fractionFromSpectrum_3ParaInit.v11_5TeVCutOff/mjj_DataLike_mbb_fix_8585_mc15_13TeV_3fb/bumpHunterStatPlot.pdf
+   plotting/SearchPhase/plots/fractionFromSpectrum_3ParaInit_flavReweight_2_2_2_1_1_1.v11_5TeVCutOff/mjj_DataLike_mbb_fix_8585_mc15_13TeV_3fb/bumpHunterStatPlot.pdf
+
+   results/Step1_SearchPhase/pValDir_fractionFromSpectrum_3ParaInit_11_210/pValHist_bumpHunter.eps 
+
+
+******** Auxiliary plot(s) *********
+
+Flavour fraction plots
+
+   Run:
+    - Produce data-like histograms with the flavour fractions
+    sh MyScripts/plot_flavourBackground_plots.sh D 3.2
+    - Produce individial plots
+    sh MyScripts/plot_flavourBackground_plots.sh P 3.2
+    - Put plots into canvases
+    sh MyScripts/plot_flavourBackground_plots.sh C 3.2
+
+   Plots @:
+    - Combined plot @
+    (it becomes backgroundFlavourComp.eps)
+    MyPlots/MC15_20151104/backgroundStudy/stackDivide_Logy.eps
+    - Individual plots @
+    MyPlots/MC15_20151104/backgroundStudy/mbb_fix_8585/stackDivide_mbb_fix_8585_Logy.eps
+    MyPlots/MC15_20151104/backgroundStudy/mbj_fix_8585/stackDivide_mbj_fix_8585_Logy.eps
+    MyPlots/MC15_20151104/backgroundStudy/mjj_fix_8585/stackDivide_mjj_fix_8585_Logy.eps
+    MyPlots/MC15_20151104/backgroundStudy/mjj_fix_8585/Legend.eps
+    
+   
+
+
